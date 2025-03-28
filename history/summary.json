@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zh.wikipedia.org.ico",
     "slug": "",
     "status": "up",
-    "uptime": "19.80%",
-    "uptimeDay": "19.80%",
-    "uptimeWeek": "19.80%",
-    "uptimeMonth": "19.80%",
-    "uptimeYear": "19.80%",
-    "time": 569,
-    "timeDay": 569,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "uptime": "0.91%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.91%",
+    "uptimeMonth": "0.91%",
+    "uptimeYear": "0.91%",
+    "time": 561,
+    "timeDay": 561,
+    "timeWeek": 561,
+    "timeMonth": 561,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-03-28": 0
+      "2025-03-28": 4
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 326,
+    "timeDay": 326,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "",
     "status": "up",
-    "uptime": "22.21%",
-    "uptimeDay": "22.21%",
-    "uptimeWeek": "22.21%",
-    "uptimeMonth": "22.21%",
-    "uptimeYear": "22.21%",
-    "time": 569,
-    "timeDay": 569,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "uptime": "1.11%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "1.11%",
+    "uptimeMonth": "1.11%",
+    "uptimeYear": "1.11%",
+    "time": 561,
+    "timeDay": 561,
+    "timeWeek": 561,
+    "timeMonth": 561,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-03-28": 0
+      "2025-03-28": 4
     }
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5,
-    "timeDay": 5,
-    "timeWeek": 5,
-    "timeMonth": 5,
-    "timeYear": 5,
+    "time": 7,
+    "timeDay": 7,
+    "timeWeek": 7,
+    "timeMonth": 7,
+    "timeYear": 7,
     "dailyMinutesDown": {}
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/4700.ico",
     "slug": "cloudflare-dns-v6",
     "status": "down",
-    "uptime": "0.32%",
-    "uptimeDay": "0.32%",
-    "uptimeWeek": "0.32%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "0.32%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-28": 0
+      "2025-03-28": 4
     }
   }
 ]

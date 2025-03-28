@@ -1,7 +1,8 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# 首先更改这些
+owner: Iuleoo # GitHub 用户名
+repo: Upptime # GitHub 仓库名称
 
+#下边写的时候一定注意代码的缩进让，“-” 都在同一个竖线上，“name”和“url”也都在同一个竖线上，层次不齐的代码高几率直接报错
 sites:
   - name: Google
     url: https://www.google.com
@@ -13,14 +14,14 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
-    port: 80
+    port: 443
     check: "tcp-ping"
     ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # 添加您的自定义域名，若没有域名请删除 cname 行
+  # 若未使用自定义域名，请取消注释 baseUrl 行并在该处填写您的仓库名称
+  cname: upptime.yayal.cc
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -32,5 +33,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Upptime 的功能不仅限于监控，还可设置通知提醒、分配事务处理等
+# 完整配置说明详见官方文档： https://upptime.js.org/docs/configuration

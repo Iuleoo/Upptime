@@ -22,8 +22,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Welcome**"
+  introMessage: 这是[**YAYAL**](https://www.yayal.cc/)的服务状态页面
   navbar:
     - title: Status
       href: /
@@ -55,14 +55,14 @@ i18n:
   averageResponseTime: "平均响应: $TIMEms"
   averageResponseTimeTitle: 接口响应
   sevelDayResponseTime: 7日响应趋势
-  responseTimeMs: 响应时长（毫秒）
+  responseTimeMs: 响应时长（ms）
   up: 正常
   down: 中断
   degraded: 性能下降
-  ms: 毫秒
+  ms: ms
   loading: 加载中
   navGitHub: GitHub
-  footer: 本页面 [开源托管于]($REPO), 基于 [Upptime](https://upptime.js.org) 构建
+  footer: 本页面开源托管于 [Github]($REPO), 基于 [Upptime](https://upptime.js.org) 构建
   rateLimitExceededTitle: 访问频率受限
   rateLimitExceededIntro: 您已达到每小时访问上限，请稍候重试或绑定 GitHub 令牌继续访问。
   rateLimitExceededWhatDoesErrorMean: 为何出现此提示？

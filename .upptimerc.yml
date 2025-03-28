@@ -6,7 +6,7 @@ repo: Upptime # GitHub 仓库名称
 sites:
   - name: Google
     url: https://www.google.com
-  - name: 维基百科
+  - name: Wikipedia
     url: https://zh.wikipedia.org
   - name: 鸭鸭梨
     url: https://www.yayal.cc

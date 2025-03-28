@@ -8,18 +8,12 @@ sites:
     url: https://www.google.com
   - name: 维基百科
     url: https://zh.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: 鸭鸭梨
     url: https://www.yayal.cc
   - name: Cloudflare DNS V4
     url: 1.1.1.1
     port: 53
     check: "tcp-ping"
-    ipv6: false
-  - name: Cloudflare DNS V6
-    url: 2606:4700:4700::1111
-    ipv6: true
 
 status-website:
   # 添加您的自定义域名，若没有域名请删除 cname 行

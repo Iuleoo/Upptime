@@ -10,6 +10,8 @@ sites:
     url: https://zh.wikipedia.org
   - name: YAYAL
     url: https://www.yayal.cc
+  - name: MIRRORS
+    url: $MIRRORS
   - name: Cloudflare DNS
     url: 1.1.1.1
     port: 53

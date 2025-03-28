@@ -19,8 +19,6 @@ sites:
     ipv6: false
   - name: Cloudflare DNS V6
     url: 2606:4700:4700::1111
-    port: 53
-    check: "tcp-ping"
     ipv6: true
 
 status-website:

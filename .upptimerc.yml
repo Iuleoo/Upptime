@@ -65,33 +65,33 @@ i18n:
   footer: 本页面 [开源托管于]($REPO), 基于 [Upptime](https://upptime.js.org) 构建
   rateLimitExceededTitle: 访问频率受限
   rateLimitExceededIntro: 您已达到每小时访问上限，请稍候重试或绑定 GitHub 令牌继续访问。
-	rateLimitExceededWhatDoesErrorMean: 为何出现此提示？
-	rateLimitExceededErrorMeaning: 因使用 GitHub 接口获取数据，每个 IP 每小时限访问 60 次。
-	rateLimitExceededErrorHowCanFix: 如何恢复访问？
-	rateLimitExceededErrorFix: 等待 1 小时自动恢复，或绑定个人令牌可提升至每小时 5,000 次。
-	rateLimitExceededGeneratePAT: 获取个人令牌指南。
-	rateLimitExceededHasSet: 您已绑定访问令牌。
-	rateLimitExceededRemoveToken: 解除绑定
-	rateLimitExceededGitHubPAT: GitHub 访问令牌
-	rateLimitExceededCopyPastePAT: 输入您的令牌
-	rateLimitExceededSaveToken: 保存设置
-	errorTitle: 数据加载失败
-	errorIntro: 获取最新状态时出现异常。
-	errorText: 建议稍后刷新重试。
-	errorHome: 返回主页
-	pastScheduledMaintenance: 维护记录
-	scheduledMaintenance: 计划性维护
-	scheduledMaintenanceSummaryStarted: 维护进行中 $DATE 开始，持续 $DURATION 分钟
-	scheduledMaintenanceSummaryStarts: 维护预告 $DATE 开始，预计 $DURATION 分钟
-	startedAt: 开始于
-	startsAt: 计划于
-	duration: 时长
-	durationMin: $DURATION 分钟
-	incidentCompleted: 维护完成
-	incidentScheduled: 维护预告
-	duration24H: 24小时
-	duration7D: 7天
-	duration30D: 30天
-	duration1Y: 1年
-	durationAll: 全部时段
-	locale: zh-CN
+  rateLimitExceededWhatDoesErrorMean: 为何出现此提示？
+  rateLimitExceededErrorMeaning: 因使用 GitHub 接口获取数据，每个 IP 每小时限访问 60 次。
+  rateLimitExceededErrorHowCanFix: 如何恢复访问？
+  rateLimitExceededErrorFix: 等待 1 小时自动恢复，或绑定个人令牌可提升至每小时 5,000 次。
+  rateLimitExceededGeneratePAT: 获取个人令牌指南。
+  rateLimitExceededHasSet: 您已绑定访问令牌。
+  rateLimitExceededRemoveToken: 解除绑定
+  rateLimitExceededGitHubPAT: GitHub 访问令牌
+  rateLimitExceededCopyPastePAT: 输入您的令牌
+  rateLimitExceededSaveToken: 保存设置
+  errorTitle: 数据加载失败
+  errorIntro: 获取最新状态时出现异常。
+  errorText: 建议稍后刷新重试。
+  errorHome: 返回主页
+  pastScheduledMaintenance: 维护记录
+  scheduledMaintenance: 计划性维护
+  scheduledMaintenanceSummaryStarted: 维护进行中 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 维护预告 $DATE 开始，预计 $DURATION 分钟
+  startedAt: 开始于
+  startsAt: 计划于
+  duration: 时长
+  durationMin: $DURATION 分钟
+  incidentCompleted: 维护完成
+  incidentScheduled: 维护预告
+  duration24H: 24小时
+  duration7D: 7天
+  duration30D: 30天
+  duration1Y: 1年
+  durationAll: 全部时段
+  locale: zh-CN

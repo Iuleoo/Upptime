@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 93,
-    "timeWeek": 125,
-    "timeMonth": 132,
+    "timeDay": 97,
+    "timeWeek": 126,
+    "timeMonth": 133,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-05-15": 19,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 149,
-    "timeWeek": 155,
+    "time": 188,
+    "timeDay": 75,
+    "timeWeek": 148,
     "timeMonth": 170,
-    "timeYear": 190,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 1040,
-    "timeWeek": 1047,
-    "timeMonth": 1012,
-    "timeYear": 987,
+    "time": 988,
+    "timeDay": 1062,
+    "timeWeek": 1042,
+    "timeMonth": 1010,
+    "timeYear": 988,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,20 @@
     "url": "$MIRRORS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 719,
-    "timeWeek": 697,
-    "timeMonth": 682,
+    "timeDay": 704,
+    "timeWeek": 691,
+    "timeMonth": 681,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-20": 0
+    }
   },
   {
     "name": "Cloudflare DNS",

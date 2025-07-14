@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 170,
     "timeDay": 78,
-    "timeWeek": 147,
+    "timeWeek": 117,
     "timeMonth": 118,
     "timeYear": 170,
     "dailyMinutesDown": {
@@ -48,11 +48,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "yayal",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.32%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.73%",
     "time": 995,
     "timeDay": 1175,
     "timeWeek": 959,
@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
     "status": "up",
-    "uptime": "93.70%",
+    "uptime": "93.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.32%",
-    "uptimeYear": "93.70%",
+    "uptimeYear": "93.75%",
     "time": 660,
     "timeDay": 706,
     "timeWeek": 605,
@@ -97,7 +97,7 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloudflare-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -108,6 +108,8 @@
     "timeWeek": 4,
     "timeMonth": 6,
     "timeYear": 5,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 0
+    }
   }
 ]

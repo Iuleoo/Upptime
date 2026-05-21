@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 157,
-    "timeDay": 67,
-    "timeWeek": 67,
-    "timeMonth": 95,
+    "timeDay": 85,
+    "timeWeek": 70,
+    "timeMonth": 93,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-04-12": 188,
@@ -37,10 +37,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 539,
-    "timeWeek": 192,
-    "timeMonth": 244,
+    "time": 246,
+    "timeDay": 74,
+    "timeWeek": 168,
+    "timeMonth": 226,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2025-06-02": 20
@@ -52,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "yayal",
     "status": "up",
-    "uptime": "27.59%",
+    "uptime": "27.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.50%",
-    "uptimeMonth": "16.68%",
+    "uptimeWeek": "80.88%",
+    "uptimeMonth": "19.99%",
     "uptimeYear": "17.08%",
-    "time": 989,
-    "timeDay": 720,
-    "timeWeek": 743,
-    "timeMonth": 743,
-    "timeYear": 989,
+    "time": 988,
+    "timeDay": 837,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2026-05-15": 739,
       "2026-05-14": 1440,
@@ -375,7 +375,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
     "status": "down",
-    "uptime": "25.70%",
+    "uptime": "25.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -386,7 +386,8 @@
     "timeMonth": 0,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2026-05-20": 242,
+      "2026-05-21": 251,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -696,8 +697,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1363,
       "2025-05-23": 451,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -714,7 +714,7 @@
     "time": 6,
     "timeDay": 3,
     "timeWeek": 3,
-    "timeMonth": 8,
+    "timeMonth": 7,
     "timeYear": 6,
     "dailyMinutesDown": {
       "2025-07-14": 38

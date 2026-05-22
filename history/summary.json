@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 157,
-    "timeDay": 85,
+    "timeDay": 56,
     "timeWeek": 70,
-    "timeMonth": 93,
+    "timeMonth": 91,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-04-12": 188,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 74,
-    "timeWeek": 168,
-    "timeMonth": 226,
+    "timeDay": 50,
+    "timeWeek": 161,
+    "timeMonth": 220,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2025-06-02": 20
@@ -52,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "yayal",
     "status": "up",
-    "uptime": "27.76%",
+    "uptime": "27.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.88%",
-    "uptimeMonth": "19.99%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "23.27%",
     "uptimeYear": "17.08%",
-    "time": 988,
-    "timeDay": 837,
-    "timeWeek": 756,
-    "timeMonth": 756,
-    "timeYear": 990,
+    "time": 986,
+    "timeDay": 848,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2026-05-15": 739,
       "2026-05-14": 1440,
@@ -375,7 +375,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
     "status": "down",
-    "uptime": "25.64%",
+    "uptime": "25.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -386,7 +386,8 @@
     "timeMonth": 0,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2026-05-21": 251,
+      "2026-05-22": 246,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -696,8 +697,7 @@
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1363,
-      "2025-05-23": 451,
-      "2025-05-22": 1440
+      "2025-05-23": 451
     }
   },
   {

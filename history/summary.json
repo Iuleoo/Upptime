@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 149,
-    "timeDay": 73,
-    "timeWeek": 81,
-    "timeMonth": 79,
+    "timeDay": 52,
+    "timeWeek": 78,
+    "timeMonth": 78,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-08-05": 24,
@@ -36,7 +36,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 226,
+    "timeDay": 40,
     "timeWeek": 158,
     "timeMonth": 193,
     "timeYear": 256,
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "yayal",
     "status": "up",
-    "uptime": "37.97%",
+    "uptime": "38.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.44%",
+    "uptimeYear": "20.71%",
     "time": 881,
-    "timeDay": 578,
-    "timeWeek": 649,
-    "timeMonth": 682,
-    "timeYear": 699,
+    "timeDay": 761,
+    "timeWeek": 684,
+    "timeMonth": 688,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2026-05-15": 739,
       "2026-05-14": 1440,
@@ -347,8 +347,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -357,7 +356,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
     "status": "down",
-    "uptime": "22.01%",
+    "uptime": "21.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -368,7 +367,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 191,
+      "2026-07-30": 163,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -731,8 +731,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -747,7 +746,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 56,
+    "timeDay": 2,
     "timeWeek": 11,
     "timeMonth": 8,
     "timeYear": 6,

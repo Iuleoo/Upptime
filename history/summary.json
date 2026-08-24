@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
     "time": 147,
-    "timeDay": 79,
-    "timeWeek": 89,
-    "timeMonth": 92,
+    "timeDay": 76,
+    "timeWeek": 88,
+    "timeMonth": 93,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-10-08": 15,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 221,
-    "timeWeek": 183,
-    "timeMonth": 182,
-    "timeYear": 251,
+    "timeDay": 89,
+    "timeWeek": 181,
+    "timeMonth": 183,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "yayal",
     "status": "up",
-    "uptime": "40.99%",
+    "uptime": "41.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.28%",
-    "time": 845,
-    "timeDay": 733,
-    "timeWeek": 644,
-    "timeMonth": 667,
-    "timeYear": 691,
+    "uptimeYear": "27.55%",
+    "time": 844,
+    "timeDay": 809,
+    "timeWeek": 680,
+    "timeMonth": 668,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2026-05-15": 739,
       "2026-05-14": 1440,
@@ -322,8 +322,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   },
   {
@@ -332,18 +331,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
     "status": "down",
-    "uptime": "20.94%",
+    "uptime": "20.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 663,
+    "time": 665,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 101,
+      "2026-08-24": 99,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -706,8 +706,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   },
   {
@@ -722,7 +721,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 3,
+    "timeDay": 6,
     "timeWeek": 5,
     "timeMonth": 7,
     "timeYear": 6,

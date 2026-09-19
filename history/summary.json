@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 132,
-    "timeDay": 64,
-    "timeWeek": 72,
-    "timeMonth": 84,
+    "timeDay": 108,
+    "timeWeek": 76,
+    "timeMonth": 85,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-10-08": 15,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 73,
-    "timeWeek": 374,
-    "timeMonth": 232,
-    "timeYear": 250,
+    "time": 248,
+    "timeDay": 1824,
+    "timeWeek": 492,
+    "timeMonth": 283,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   },
   {
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "yayal",
     "status": "up",
-    "uptime": "43.85%",
+    "uptime": "43.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.43%",
-    "time": 804,
-    "timeDay": 843,
-    "timeWeek": 691,
-    "timeMonth": 672,
+    "uptimeYear": "34.70%",
+    "time": 803,
+    "timeDay": 631,
+    "timeWeek": 702,
+    "timeMonth": 675,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2026-05-15": 739,
@@ -296,8 +296,7 @@
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
-      "2025-09-20": 1440,
-      "2025-09-19": 1440
+      "2025-09-20": 1440
     }
   },
   {
@@ -306,18 +305,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
     "status": "down",
-    "uptime": "19.93%",
+    "uptime": "19.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 663,
+    "time": 661,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 242,
+      "2026-09-19": 239,
+      "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -680,8 +680,7 @@
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
-      "2025-09-20": 1440,
-      "2025-09-19": 1440
+      "2025-09-20": 1440
     }
   },
   {
@@ -696,9 +695,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 2,
-    "timeWeek": 4,
-    "timeMonth": 5,
+    "timeDay": 18,
+    "timeWeek": 5,
+    "timeMonth": 6,
     "timeYear": 6,
     "dailyMinutesDown": {}
   }

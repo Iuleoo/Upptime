@@ -11,9 +11,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.93%",
     "time": 132,
-    "timeDay": 135,
+    "timeDay": 88,
     "timeWeek": 126,
-    "timeMonth": 104,
+    "timeMonth": 103,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-12-12": 16,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 215,
-    "timeWeek": 180,
-    "timeMonth": 265,
+    "timeDay": 219,
+    "timeWeek": 178,
+    "timeMonth": 264,
     "timeYear": 258,
     "dailyMinutesDown": {}
   },
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yayal.cc.ico",
     "slug": "yayal",
     "status": "up",
-    "uptime": "49.90%",
+    "uptime": "49.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.26%",
-    "time": 697,
-    "timeDay": 665,
+    "uptimeYear": "52.54%",
+    "time": 696,
+    "timeDay": 699,
     "timeWeek": 672,
-    "timeMonth": 658,
+    "timeMonth": 660,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2026-05-15": 739,
@@ -230,8 +230,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -240,18 +239,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mirrors",
     "status": "down",
-    "uptime": "17.78%",
+    "uptime": "17.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 680,
+    "time": 682,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 357,
+      "2026-11-23": 407,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -614,8 +614,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -630,7 +629,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 8,
+    "timeDay": 6,
     "timeWeek": 5,
     "timeMonth": 6,
     "timeYear": 7,
